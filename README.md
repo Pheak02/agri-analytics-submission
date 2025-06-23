@@ -6,6 +6,10 @@ Please note that the original development was done in a private repository to pr
 #Previouse Git History
 
 ![Alt text](assets/git_history.png)
+![Alt text](assets/comit_p1.png)
+![Alt text](assets/commit_p2.png)
+![Alt text](assets/commit_p3.png)
+![Alt text](assets/commit_p4.png)
 ---
 
 # Crop Yield Prediction in Cambodian Greenhouses using ML & DL
